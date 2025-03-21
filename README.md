@@ -24,7 +24,7 @@ Resumindo :
 O programa é capaz de receber uma cadeia codificada de no máximo 250 caracteres e retornar a
 mensagem transmitida acima de 100Mhz.
 
-Linguaguem : Python
-IDE : vscode
-Feito por : Lucas Frotte Lafin
-Fonte : Prof. Adonai Medrado https://bit.ly/3ZzhTLr
+Linguaguem : Python <br>
+IDE : vscode <br>
+Feito por : Lucas Frotte Lafin <br>
+Fonte : Prof. Adonai Medrado https://bit.ly/3ZzhTLr <br>
